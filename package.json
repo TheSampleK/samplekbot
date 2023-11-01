@@ -1,0 +1,22 @@
+{
+  "name": "gweepcreative-v13-kayit-bot",
+  "version": "1.0.0",
+  "description": "Developed by Gweep Creative",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": ["Gweep Creative", "RabeL", "youtube"],
+  "author": "Gweep Creative",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "quick.db": "^7.1.3"
+  },
+    "engines": {
+    "node": "16.x"
+  }
+}
